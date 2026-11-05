@@ -16,7 +16,7 @@
 
 **75 Days of Code** is an open-source collection of 75 independent coding challenges designed to help developers practice their programming skills, explore new languages, and build something fun.
 
-**No weather apps or pomodoro timers!!!**
+**No weather apps or pomodoro timers!!!** <i> i've <strong>tried</strong> making them a bit more unique</i>
 
 This is for anyone that is just starting out with coding, building their portfolio or wanting some unique projects to work on!
 
