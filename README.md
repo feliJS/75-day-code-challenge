@@ -37,18 +37,15 @@ Inspired by Advent of Code, each challenge presents a problem for you to solve i
 >
 > Don't want to create a Pull Request? You can also share a link to your solution directly in the challenge's comments!
 
-## 🎯 Your Challenge, Your Difficulty
+## 🎯 Difficulties
 
 There are no fixed difficulty levels here.
 
 Every challenge has a set of core requirements, but how you approach them is entirely up to you.
 
-Keep it simple, experiment with something new, or challenge yourself to go further!
-
 - Complete challenges in any order.
 - Use any programming language.
 - Add your own creative features.
-- Take as much time as you need.
 
 **75 days is just the name. There's no daily deadline or streak requirement!**
 
@@ -94,7 +91,7 @@ Please keep all interactions friendly, supportive, and respectful.
 
 I've always wanted to find fun programming challenges that go beyond the usual weather apps, calculators, and Pomodoro timers.
 
-So I decided to create my own collection!
+So I decided to create my own collection of ideas!
 
 ---
 
